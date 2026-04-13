@@ -1,0 +1,24 @@
+.maindiv{
+    width: 400px;
+    height: 400px;
+    /* background-color: blue; */
+    padding: 5%;
+    position: relative;
+    top: 120px;
+    left: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: "Roboto Slab", serif;
+    background-color: lightgray;
+    color: blue;
+}
+#text{
+    position: relative;
+     font-family: "Sekuya", system-ui;
+     position: relative;
+     top: 100px;
+     left: 560px;
+     display: inline;
+     font-size: xx-large;
+
+}
